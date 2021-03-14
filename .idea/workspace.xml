@@ -7,35 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94b892f5-1516-49a7-b61a-104ca25952f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/conference_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/conference_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference.iml" beforeDir="false" afterPath="$PROJECT_DIR$/conference.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,6 +135,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.22779292" />
           <treeState>
             <expand>
               <path>
@@ -207,54 +180,54 @@
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
     <state x="1570" y="1283" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615591386708" />
-    <state width="1294" height="304" key="GridCell.Tab.0.bottom" timestamp="1615663591910">
+    <state width="1416" height="301" key="GridCell.Tab.0.bottom" timestamp="1615696722376">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.0.bottom/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591910" />
-    <state width="1294" height="304" key="GridCell.Tab.0.center" timestamp="1615663591909">
+    <state width="1416" height="301" key="GridCell.Tab.0.bottom/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722376" />
+    <state width="1416" height="301" key="GridCell.Tab.0.center" timestamp="1615696722374">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.0.center/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591909" />
-    <state width="1294" height="304" key="GridCell.Tab.0.left" timestamp="1615663591908">
+    <state width="1416" height="301" key="GridCell.Tab.0.center/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722374" />
+    <state width="1416" height="301" key="GridCell.Tab.0.left" timestamp="1615696722373">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.0.left/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591908" />
-    <state width="1294" height="304" key="GridCell.Tab.0.right" timestamp="1615663591909">
+    <state width="1416" height="301" key="GridCell.Tab.0.left/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722373" />
+    <state width="1416" height="301" key="GridCell.Tab.0.right" timestamp="1615696722375">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.0.right/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591909" />
-    <state width="1294" height="304" key="GridCell.Tab.1.bottom" timestamp="1615663591915">
+    <state width="1416" height="301" key="GridCell.Tab.0.right/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722375" />
+    <state width="1416" height="301" key="GridCell.Tab.1.bottom" timestamp="1615696722378">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.1.bottom/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591915" />
-    <state width="1294" height="304" key="GridCell.Tab.1.center" timestamp="1615663591914">
+    <state width="1416" height="301" key="GridCell.Tab.1.bottom/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722378" />
+    <state width="1416" height="301" key="GridCell.Tab.1.center" timestamp="1615696722377">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.1.center/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591914" />
-    <state width="1294" height="304" key="GridCell.Tab.1.left" timestamp="1615663591910">
+    <state width="1416" height="301" key="GridCell.Tab.1.center/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722377" />
+    <state width="1416" height="301" key="GridCell.Tab.1.left" timestamp="1615696722377">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.1.left/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591910" />
-    <state width="1294" height="304" key="GridCell.Tab.1.right" timestamp="1615663591914">
+    <state width="1416" height="301" key="GridCell.Tab.1.left/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722377" />
+    <state width="1416" height="301" key="GridCell.Tab.1.right" timestamp="1615696722378">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.1.right/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591914" />
-    <state width="1294" height="304" key="GridCell.Tab.2.bottom" timestamp="1615663591918">
+    <state width="1416" height="301" key="GridCell.Tab.1.right/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722378" />
+    <state width="1416" height="301" key="GridCell.Tab.2.bottom" timestamp="1615696722381">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.2.bottom/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591918" />
-    <state width="1294" height="304" key="GridCell.Tab.2.center" timestamp="1615663591916">
+    <state width="1416" height="301" key="GridCell.Tab.2.bottom/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722381" />
+    <state width="1416" height="301" key="GridCell.Tab.2.center" timestamp="1615696722380">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.2.center/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591916" />
-    <state width="1294" height="304" key="GridCell.Tab.2.left" timestamp="1615663591915">
+    <state width="1416" height="301" key="GridCell.Tab.2.center/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722380" />
+    <state width="1416" height="301" key="GridCell.Tab.2.left" timestamp="1615696722379">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.2.left/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591915" />
-    <state width="1294" height="304" key="GridCell.Tab.2.right" timestamp="1615663591917">
+    <state width="1416" height="301" key="GridCell.Tab.2.left/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722379" />
+    <state width="1416" height="301" key="GridCell.Tab.2.right" timestamp="1615696722380">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1294" height="304" key="GridCell.Tab.2.right/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615663591917" />
+    <state width="1416" height="301" key="GridCell.Tab.2.right/0.0.3840.1080/1011.1080.1920.1080@1011.1080.1920.1080" timestamp="1615696722380" />
     <state x="1480" y="1256" key="SettingsEditor" timestamp="1615663834709">
       <screen x="1011" y="1080" width="1920" height="1080" />
     </state>
