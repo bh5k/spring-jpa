@@ -1,6 +1,8 @@
 package com.pluralsight.conference.model;
 
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import javax.persistence.*;
 
 @Entity
@@ -17,6 +19,7 @@ public class Course {
     @Column(name = "DESCRIPTION")
     private String description;
 
+    @JsonBackReference
     @ManyToOne
     private Registration registration;
 
