@@ -15,7 +15,7 @@ import java.util.List;
 )
 public class Registration {
 
-    public static final String REGISTRATION_REPORT = "registrationReport";
+    public static final String REGISTRATION_REPORT = "Registration.registrationReport";
 
     public static final String REGISTRATION_REPORT_JPQL =
             "Select new com.pluralsight.conference.model.RegistrationReport" +

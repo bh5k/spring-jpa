@@ -58,4 +58,10 @@ public class RegistrationController {
         return "redirect:registration";
     }
 
+    @PostMapping("registration/update")
+    public @ResponseBody Registration updateRegistration (@Valid @ModelAttribute("registration")
+                                                          Registration registration,
+                                                          BindingResult result) {
+        return registrationService.addRegistration(registration);
+    }
 }
